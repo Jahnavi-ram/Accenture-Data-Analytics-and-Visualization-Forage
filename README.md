@@ -6,7 +6,7 @@
 ## 🔍 Project Overview  
 This project simulates a **Data Analyst role at Accenture**, where I worked with a **hypothetical social media client (Social Buzz)** to identify content trends, optimize engagement strategies, and present data-driven insights.  
 
-Through **data cleaning, modeling, and visualization**, I analyzed **3 datasets** to uncover **top-performing content categories**, sentiment distribution, and seasonal trends.  
+Through **data cleaning, modeling, and visualization**, I analyzed **7 datasets** to uncover **top-performing content categories**, sentiment distribution, and seasonal trends.  
 
 ---
 
@@ -45,6 +45,6 @@ Through **data cleaning, modeling, and visualization**, I analyzed **3 datasets*
 ## 📢 Check out the Forage Simulation  
 💡 Interested in exploring this project? Try it yourself here: [Forage - Accenture Data Analytics Simulation](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)  
 
-🔗 **Connect with me on LinkedIn**: [Your LinkedIn Profile](LINK_HERE)  
+🔗 **Connect with me on LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/jahnavi-ram)  
 
 ---
