@@ -29,7 +29,7 @@ Through **data cleaning, modeling, and visualization**, I analyzed **3 datasets*
 
 ## 📂 Project Files  
 📌 **[Final PowerPoint Presentation](https://github.com/Jahnavi-ram/Accenture-Data-Analytics-and-Visualization-Forage/blob/main/Data%20Analytics%20%20-%20Task%203_final.pdf)** – Client-ready deck summarizing findings.  
-📌 **[Final Excel Analysis](LINK_HERE)** – Cleaned dataset, analysis, and visual insights.  
+📌 **[Final Excel Analysis](https://github.com/Jahnavi-ram/Accenture-Data-Analytics-and-Visualization-Forage/blob/main/Reaction.xlsx)** – Cleaned dataset, analysis, and visual insights.  
 
 ---
 
